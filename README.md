@@ -14,6 +14,8 @@
 
 - trae
 
+- Streamlit
+
 ##### excel引擎
 
 - libreoffice
